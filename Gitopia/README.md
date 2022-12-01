@@ -1,4 +1,6 @@
 
+![gitopia](https://user-images.githubusercontent.com/117993673/205015033-fb589926-e8fc-445e-a41f-c2bf1f2d402f.png)
+
 # Node Testnet Gitopia
 
 Dokumentasi resmi:
