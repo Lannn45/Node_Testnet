@@ -1,5 +1,5 @@
 
-# Penyiapan node gitopia untuk testnet — gitopia-janus-testnet-2
+# Node Testnet Gitopia
 
 Dokumentasi resmi:
 > - [Petunjuk penyiapan validator](https://docs.gitopia.com/installation/index.html)
