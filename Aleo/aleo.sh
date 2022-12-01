@@ -1,3 +1,8 @@
+!/bin/bash
+clear
+
+sleep 2
+
 echo -e "\e[1m\e[32m1. Updating packages... \e[0m" && sleep 1
 # update
 cd $HOME
